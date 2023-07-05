@@ -170,7 +170,7 @@ namespace Activity_6
 
         private void FormDataProdi_Load(object sender, EventArgs e)
         {
-            throw new NotImplementedException();
+            throw new NotImplementedException(); 
         }
 
         #endregion
